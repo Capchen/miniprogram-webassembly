@@ -10,6 +10,8 @@
 
 - [C to WebAssembly](https://developer.mozilla.org/en-US/docs/WebAssembly/C_to_Wasm)
 
+- [C/C++面向WebAssembly编程](https://www.cntofu.com/book/150/index.html)
+
 ## C转Wasm
 
 按照[MDN](https://developer.mozilla.org/en-US/docs/WebAssembly/C_to_Wasm)上的提示，我们可以得到三个文件

@@ -1,0 +1,11 @@
+{
+  "name": "mini-audio",
+  "version": "1.0.0",
+  "description": "mini",
+  "license": "MIT",
+  "scripts": {},
+  "dependencies": {
+    "dayjs": "^1.11.11",
+    "pitchfinder": "^2.3.2"
+  }
+}
